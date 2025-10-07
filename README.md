@@ -1,2 +1,6 @@
 # Automated-LinkedIn-Internship-Applier-Bot
-An automated bot that streamlines LinkedIn internship applications by searching for opportunities, filling out forms, handling additional questions, and applying to multiple internships with ease, saving time and increasing efficiency in your job search.
+Automated LinkedIn Internship Applier Bot  A bot that automates the process of applying for internships on LinkedIn, streamlining your job search and saving you time. This bot can: 
+- Search for internship opportunities on LinkedIn
+- Automatically fill out application forms
+- Handle additional questions and requirements
+- Apply to multiple internships with ease
